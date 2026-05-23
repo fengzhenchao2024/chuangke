@@ -17,10 +17,10 @@ export const APP_CONFIG = {
   WECHAT_SERVICE: "dama2024",
 
   // 5. 客服查询更多详情链接（SUPPORT_DETAIL_URL）：默认值="https://www.xxxx.cn/support"，代理替换为专属链接
-  SUPPORT_DETAIL_URL: "https://www.yuque.com/fenglaoshi-hyuur/fwb6e0/xgkfso22376qp5ca",
+  SUPPORT_DETAIL_URL: "https://www.yuque.com/fenglaoshi-hyuur/fwb6e0/btzay5wyq24n1h9z",
 
   // 6. 代理界面立即加入代理计划链接（AGENT_JOIN_URL）：默认值="https://www.xxxx.cn/join"，代理替换为专属链接
-  AGENT_JOIN_URL: "https://www.yuque.com/fenglaoshi-hyuur/fwb6e0/xgkfso22376qp5ca",
+  AGENT_JOIN_URL: "https://www.yuque.com/fenglaoshi-hyuur/fwb6e0/btzay5wyq24n1h9z",
 
   // 7. 案例链接（CASE_URL）：默认值="https://www.xxxx.cn/case"，代理替换为专属链接
   CASE_URL: "https://gcnsqc1rm2kk.feishu.cn/wiki/IsoawttXwiLnTakKBVGcCacfnHh?from=from_parent_docx",
